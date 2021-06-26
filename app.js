@@ -6,7 +6,7 @@ const dotenv = require("dotenv");
 const app = express();
 require('dotenv').config();
 dotenv.config();
-const port = process.env.PORT;
+const port = 3000;
 const dbURI = process.env.MONGODBURI;
 
 mongoose.connect(dbURI, { useNewUrlParser: true, useUnifiedTopology: true }) //prevents deprecation
