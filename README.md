@@ -49,10 +49,10 @@ VIEW SPECIFIC BLOG -GET - http://127.0.0.1:3000/blog/60d78aaddf608512504771cf
 
 EDIT SPECIFIC BLOG - POST - http://127.0.0.1:3000/edit/60d78aaddf608512504771cf
 <!-- ATTACH ID AT THE END 3000/edit/:id here -->
-![Edit Blog](https://user-images.githubusercontent.com/67043559/123595712-e2fd1f00-d7f9-11eb-8821-97e3e054506a.png)
+![Edit Blog](https://user-images.githubusercontent.com/67043559/123596881-5eab9b80-d7fb-11eb-982f-17f160871bb0.png)
 
 AFTER EDITING BLOG-GET ALL BLOGS
-![afterEdit](https://user-images.githubusercontent.com/67043559/123595744-f01a0e00-d7f9-11eb-8d9b-67ab2b723fb8.png)
+![afterEdit](https://user-images.githubusercontent.com/67043559/123596922-68350380-d7fb-11eb-8ec6-6cfc932e36eb.png)
 
 DELETE SPECIFIC BLOG - DELETE - http://127.0.0.1:3000/delete/60d7884dc58855257caa621f
 <!-- ATTACH ID AT THE END 3000/delete/:id here -->
